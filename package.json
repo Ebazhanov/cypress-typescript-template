@@ -1,0 +1,9 @@
+{
+  "name": "cypress-typrescript-template",
+  "devDependencies": {
+    "@bahmutov/add-typescript-to-cypress": "^2.1.2",
+    "cypress": "3.8.3",
+    "typescript": "^3.7.5",
+    "webpack": "^4.41.5"
+  }
+}

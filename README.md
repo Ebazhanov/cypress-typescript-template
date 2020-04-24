@@ -1,6 +1,9 @@
-Working example of Cypress with TypeScript
+Cypress with TypeScript
 -----------------------------------
+> From [Released 4/13/2020](https://github.com/cypress-io/cypress/releases/tag/v4.4.0)
+>> "TypeScript test files are now supported without using special preprocessors plugins."
 
+### How create your own TS template
 - `$ yarn init -y`
 - `$ yarn add cypress --dev`
 - `$ yarn add typescript --dev`

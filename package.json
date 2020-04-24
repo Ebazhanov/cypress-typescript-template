@@ -3,6 +3,7 @@
   "name": "cypress-typrescript-template",
   "devDependencies": {
     "@bahmutov/add-typescript-to-cypress": "^2.1.2",
+    "@types/node": "^13.13.2",
     "cypress": "4.4.1",
     "typescript": "^3.7.5",
     "webpack": "^4.41.5"

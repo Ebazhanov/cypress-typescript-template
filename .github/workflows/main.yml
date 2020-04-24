@@ -10,4 +10,3 @@ jobs:
         with:
           browser: chrome
           headless: true
-          record: true
